@@ -1,6 +1,9 @@
 ﻿` `**Pralay Mohanty** 
 
-Email:  pralay\_1991@outlook.com | Mobile: +(91) 9030002216 | LinkedIn :[ www.linkedin.com/in/pralaymohanty91 ](http://www.linkedin.com/in/pralaymohanty91)Location: Hyderabad
+Email:  pralay\_1991@outlook.com 
+Mobile: +(91) 9030002216 
+LinkedIn :[ www.linkedin.com/in/pralaymohanty91 ](http://www.linkedin.com/in/pralaymohanty91)
+Location: Hyderabad
 
 **Summary**
 
@@ -8,7 +11,7 @@ Full-stack developer with 11+ years of expertise in building scalable and cloud-
 
 **Work Experience**  
 
-Senior Software Developer @ *Annalect India Mar 2021 - Present (3 years 9 months continuing)*   
+Senior Software Developer @ *Annalect India                                                                                                                 Mar 2021 - Present (3 years 9 months continuing)
 
 Project Description : Enterprise solutions called Adzu and PlanIT that helps clients to create and plan of the advertisements on various media channels. Highly data centric and feasible UI-UX for the clients to plan for audience and reach capture.  
 
@@ -18,8 +21,9 @@ Project Description : Enterprise solutions called Adzu and PlanIT that helps cli
 - Implemented caching mechanism, using browser cache and Redis Cache for data centric calls that used to take a lot of time to process.   
 - Implemented some components using Frontend technology for some schedulers / web jobs which added some visibility in case of a pending / error situation. 
 - Contributed to make sure a quality code has been part of the source code by adding multiple checks during code reviews and pull request approvals. 
-**
-` `Principal Software Engineer @ *Hexagon Capability Centre India***                              *Sep 2018 - Mar 2021 (2 years 7 months)*    
+
+  
+` `Principal Software Engineer @ *Hexagon Capability Centre India***                                                                                      	Sep 2018 - Mar 2021 (2 years 7 months)
 
 Project Description : Enterprise solution called Smart Completions that help clients in maintaining different construction projects. Highly efficient in running annual maintenance for the customers during the AMC period/ Completion phase.  
 
@@ -30,8 +34,9 @@ Project Description : Enterprise solution called Smart Completions that help cli
 - Contributed to address security concerns or code smells raised by the team during development phase here by reducing of 75% of costs in fixing in later stages.   
 - Created new CI-CD pipelines/ containerization for the new development projects or new build requirements.   
 - Contributed to develop mobile application (UWP) and later designing the syncing mechanism in the application to the main application.   
-**
-` `IT Analyst @ *Tata Consultancy Services Dec 2013 - Sep 2018 (4 year 10 months)*    
+
+  
+` `IT Analyst @ *Tata Consultancy Services                                                                                                                 	Dec 2013 - Sep 2018 (4 year 10 months)
 
 Project Description : Enterprise solution called Med Mantra facilitating hospital and emergency services for the private sectors and some few public sectors. The project provides end to end solution in creating and saving / recording a wide range of service and day to day activity management for patients. 
 
